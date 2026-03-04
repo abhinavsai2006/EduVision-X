@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Untitled Presentation",
+    "author": "",
+    "createdAt": "2026-03-03T19:07:53.782Z",
+    "updatedAt": "2026-03-03T19:07:53.782Z",
+    "version": "3.0",
+    "theme": "default",
+    "aspectRatio": "16:9"
+  },
+  "slides": [
+    {
+      "id": "s_1772564873782_o9k989",
+      "order": 0,
+      "layout": "blank",
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [],
+      "notes": "",
+      "transition": "none",
+      "animations": []
+    }
+  ],
+  "settings": {
+    "transition": "fade",
+    "transitionDuration": 500,
+    "autoPlay": false,
+    "autoPlayInterval": 5000,
+    "showSlideNumbers": true,
+    "enableAI": true,
+    "enableInteractive": true
+  }
+}

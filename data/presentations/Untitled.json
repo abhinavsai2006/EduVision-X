@@ -1,0 +1,775 @@
+{
+  "name": "Untitled Presentation",
+  "data": {
+    "meta": {
+      "title": "Untitled Presentation",
+      "author": "",
+      "createdAt": "2026-03-01T15:57:01.985Z",
+      "updatedAt": "2026-03-01T16:00:15.975Z",
+      "version": "3.0",
+      "theme": "default",
+      "aspectRatio": "16:9"
+    },
+    "slides": [
+      {
+        "id": "s_1772380621986_iu8q2o",
+        "order": 0,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [
+          {
+            "id": "el_1772380726813_1_85j1o",
+            "type": "connector",
+            "x": 20,
+            "y": 20,
+            "width": 194,
+            "height": 253,
+            "rotation": 0,
+            "opacity": 1,
+            "locked": false,
+            "animation": null,
+            "animTrigger": "auto",
+            "style": {
+              "stroke": "#6366f1",
+              "strokeWidth": 2
+            },
+            "lineStyle": "solid",
+            "lineWidth": 2,
+            "startCap": "none",
+            "endCap": "arrow",
+            "content": "M94.0,172.0 L94.0,166.0 L94.0,159.0 L94.0,156.0 L94.0,153.0 L94.0,151.0 L94.0,150.0 L94.0,149.0 L94.0,149.0 L97.0,148.0 L101.0,146.0 L105.0,144.0 L110.0,144.0 L113.0,142.0 L116.0,142.0 L121.0,142.0 L125.0,142.0 L130.0,143.0 L134.0,146.0 L139.0,149.0 L144.0,152.0 L148.0,156.0 L154.0,161.0 L155.0,164.0 L158.0,168.0 L162.0,172.0 L164.0,177.0 L165.0,181.0 L167.0,188.0 L168.0,196.0 L168.0,201.0 L170.0,211.0 L170.0,216.0 L170.0,221.0 L170.0,226.0 L168.0,230.0 L165.0,236.0 L162.0,238.0 L158.0,243.0 L154.0,246.0 L148.0,248.0 L141.0,252.0 L138.0,252.0 L136.0,253.0 L134.0,253.0 L134.0,253.0 L133.0,253.0 L132.0,253.0 L130.0,253.0 L130.0,253.0 L129.0,253.0 L126.0,252.0 L123.0,252.0 L117.0,249.0 L114.0,248.0 L106.0,243.0 L105.0,241.0 L102.0,238.0 L99.0,236.0 L94.0,233.0 L88.0,228.0 L79.0,221.0 L72.0,217.0 L66.0,213.0 L64.0,211.0 L63.0,210.0 L62.0,210.0 L62.0,209.0 L62.0,208.0 L62.0,207.0 L62.0,204.0 L62.0,202.0 L64.0,196.0 L66.0,190.0 L69.0,184.0 L74.0,179.0 L77.0,173.0 L80.0,170.0 L82.0,169.0 L83.0,168.0 L86.0,167.0 L87.0,166.0 L90.0,164.0 L93.0,163.0 L98.0,159.0 L106.0,156.0 L113.0,152.0 L118.0,150.0 L125.0,148.0 L132.0,146.0 L134.0,146.0 L137.0,145.0 L138.0,145.0 L140.0,145.0 L142.0,145.0 L146.0,145.0 L151.0,145.0 L156.0,144.0 L163.0,142.0 L170.0,141.0 L174.0,139.0 L178.0,138.0 L182.0,135.0 L182.0,135.0 L184.0,133.0 L186.0,132.0 L186.0,130.0 L188.0,128.0 L189.0,124.0 L191.0,120.0 L192.0,117.0 L194.0,108.0 L194.0,104.0 L194.0,96.0 L194.0,91.0 L194.0,84.0 L193.0,77.0 L191.0,73.0 L186.0,66.0 L182.0,60.0 L173.0,52.0 L163.0,45.0 L154.0,39.0 L140.0,29.0 L130.0,21.0 L116.0,13.0 L107.0,9.0 L102.0,6.0 L95.0,4.0 L91.0,3.0 L84.0,0.0 L78.0,0.0 L71.0,0.0 L60.0,0.0 L54.0,0.0 L44.0,0.0 L37.0,2.0 L30.0,3.0 L27.0,4.0 L24.0,6.0 L21.0,8.0 L19.0,9.0 L17.0,12.0 L15.0,15.0 L12.0,18.0 L10.0,23.0 L6.0,28.0 L4.0,39.0 L3.0,45.0 L0.0,57.0 L0.0,67.0 L0.0,76.0 L0.0,83.0 L3.0,90.0 L6.0,96.0 L10.0,98.0 L12.0,100.0 L16.0,102.0 L19.0,103.0 L20.0,103.0 L22.0,103.0 L22.0,103.0 L25.0,102.0 L28.0,100.0",
+            "connectorType": "freeform"
+          },
+          {
+            "id": "el_1772380729876_2_qenoj",
+            "type": "connector",
+            "x": 365,
+            "y": 172.4000015258789,
+            "width": 20,
+            "height": 20,
+            "rotation": 0,
+            "opacity": 1,
+            "locked": false,
+            "animation": null,
+            "animTrigger": "auto",
+            "style": {
+              "stroke": "#6366f1",
+              "strokeWidth": 2
+            },
+            "lineStyle": "solid",
+            "lineWidth": 2,
+            "startCap": "none",
+            "endCap": "arrow",
+            "content": "M0.0,1.0 L0.0,0.0",
+            "connectorType": "freeform"
+          },
+          {
+            "id": "el_1772380738823_3_7twu7",
+            "type": "connector",
+            "x": 402,
+            "y": 194.4000015258789,
+            "width": 20,
+            "height": 20,
+            "rotation": 0,
+            "opacity": 1,
+            "locked": false,
+            "animation": null,
+            "animTrigger": "auto",
+            "style": {
+              "stroke": "#1c2120",
+              "strokeWidth": 2
+            },
+            "lineStyle": "solid",
+            "lineWidth": 2,
+            "startCap": "none",
+            "endCap": "arrow",
+            "content": "M0.0,0.0 L0.0,0.0",
+            "connectorType": "freeform"
+          },
+          {
+            "id": "el_1772380739394_4_1pyuc",
+            "type": "connector",
+            "x": 354,
+            "y": 80.4000015258789,
+            "width": 192,
+            "height": 139,
+            "rotation": 0,
+            "opacity": 1,
+            "locked": false,
+            "animation": null,
+            "animTrigger": "auto",
+            "style": {
+              "stroke": "#1c2120",
+              "strokeWidth": 2
+            },
+            "lineStyle": "solid",
+            "lineWidth": 2,
+            "startCap": "none",
+            "endCap": "arrow",
+            "content": "M0.0,139.0 L0.0,137.0 L6.0,133.0 L17.0,120.0 L32.0,104.0 L56.0,84.0 L96.0,53.0 L123.0,34.0 L156.0,11.0 L170.0,5.0 L182.0,0.0 L184.0,0.0 L185.0,2.0 L187.0,9.0 L188.0,21.0 L189.0,29.0 L190.0,38.0 L192.0,47.0 L192.0,49.0 L192.0,51.0",
+            "connectorType": "freeform"
+          },
+          {
+            "id": "el_1772380740151_5_yo3me",
+            "type": "connector",
+            "x": 431,
+            "y": 228.4000015258789,
+            "width": 135,
+            "height": 135,
+            "rotation": 0,
+            "opacity": 1,
+            "locked": false,
+            "animation": null,
+            "animTrigger": "auto",
+            "style": {
+              "stroke": "#1c2120",
+              "strokeWidth": 2
+            },
+            "lineStyle": "solid",
+            "lineWidth": 2,
+            "startCap": "none",
+            "endCap": "arrow",
+            "content": "M0.0,0.0 L0.0,1.0 L3.0,4.0 L9.0,12.0 L18.0,22.0 L27.0,29.0 L36.0,39.0 L48.0,51.0 L55.0,58.0 L71.0,73.0 L83.0,85.0 L99.0,102.0 L111.0,113.0 L122.0,123.0 L131.0,132.0 L134.0,134.0 L135.0,135.0 L135.0,135.0 L135.0,135.0",
+            "connectorType": "freeform"
+          },
+          {
+            "id": "el_1772380745940_6_ubilp",
+            "type": "connector",
+            "x": 460,
+            "y": 20,
+            "width": 267,
+            "height": 214,
+            "rotation": 0,
+            "opacity": 1,
+            "locked": false,
+            "animation": null,
+            "animTrigger": "auto",
+            "style": {
+              "stroke": "#1c2120",
+              "strokeWidth": 2
+            },
+            "lineStyle": "solid",
+            "lineWidth": 2,
+            "startCap": "none",
+            "endCap": "arrow",
+            "content": "M20.0,0.0 L20.0,4.0 L20.0,9.0 L20.0,22.0 L17.0,36.0 L14.0,58.0 L11.0,76.0 L8.0,98.0 L2.0,129.0 L1.0,145.0 L0.0,163.0 L0.0,172.0 L1.0,184.0 L4.0,189.0 L5.0,193.0 L9.0,196.0 L10.0,198.0 L13.0,200.0 L16.0,202.0 L20.0,204.0 L24.0,206.0 L30.0,208.0 L41.0,212.0 L50.0,214.0 L66.0,214.0 L86.0,212.0 L117.0,200.0 L145.0,188.0 L180.0,168.0 L205.0,152.0 L229.0,136.0 L249.0,119.0 L258.0,108.0 L266.0,98.0 L267.0,94.0 L267.0,91.0 L267.0,88.0 L261.0,81.0 L256.0,76.0 L247.0,67.0 L237.0,60.0 L221.0,50.0 L203.0,43.0 L186.0,37.0 L169.0,32.0 L156.0,28.0 L141.0,24.0 L129.0,22.0 L111.0,21.0 L98.0,18.0 L85.0,17.0 L74.0,17.0 L65.0,17.0 L56.0,17.0 L48.0,20.0 L41.0,24.0 L38.0,24.0 L36.0,26.0 L36.0,27.0 L36.0,28.0 L36.0,28.0 L36.0,29.0",
+            "connectorType": "freeform"
+          },
+          {
+            "id": "el_1772380748395_7_vayhp",
+            "type": "connector",
+            "x": 338,
+            "y": 167.4000015258789,
+            "width": 117,
+            "height": 156,
+            "rotation": 0,
+            "opacity": 1,
+            "locked": false,
+            "animation": null,
+            "animTrigger": "auto",
+            "style": {
+              "stroke": "#1c2120",
+              "strokeWidth": 2
+            },
+            "lineStyle": "solid",
+            "lineWidth": 2,
+            "startCap": "none",
+            "endCap": "arrow",
+            "content": "M7.0,152.0 L6.0,147.0 L2.0,126.0 L0.0,112.0 L0.0,87.0 L0.0,65.0 L4.0,30.0 L8.0,15.0 L12.0,3.0 L14.0,0.0 L16.0,4.0 L16.0,10.0 L16.0,23.0 L16.0,34.0 L15.0,47.0 L13.0,56.0 L11.0,64.0 L9.0,66.0 L8.0,70.0 L8.0,70.0 L8.0,72.0 L11.0,80.0 L16.0,90.0 L23.0,105.0 L29.0,115.0 L37.0,129.0 L42.0,136.0 L48.0,146.0 L53.0,150.0 L57.0,155.0 L58.0,155.0 L60.0,156.0 L60.0,156.0 L61.0,156.0 L64.0,156.0 L65.0,156.0 L68.0,154.0 L71.0,150.0 L72.0,150.0 L72.0,150.0 L73.0,150.0 L74.0,150.0 L75.0,150.0 L76.0,150.0 L76.0,150.0 L77.0,150.0 L79.0,151.0 L80.0,152.0 L82.0,153.0 L85.0,154.0 L89.0,154.0 L95.0,154.0 L105.0,154.0 L108.0,154.0 L112.0,152.0 L115.0,150.0 L117.0,148.0 L117.0,147.0",
+            "connectorType": "freeform"
+          }
+        ],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380752827_60etqj",
+        "order": 1,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380752995_x4tfwc",
+        "order": 2,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380753172_6hz3tr",
+        "order": 3,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380753341_l2ok7e",
+        "order": 4,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380753510_c8duhp",
+        "order": 5,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380753679_jmejsc",
+        "order": 6,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380754017_w6yuv4",
+        "order": 7,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380754218_4dtp0a",
+        "order": 8,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380754516_ja711n",
+        "order": 9,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380754782_cp95pf",
+        "order": 10,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380754983_1yerrd",
+        "order": 11,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380755154_5sfslu",
+        "order": 12,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380755321_4ftng0",
+        "order": 13,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380755491_rj7cdy",
+        "order": 14,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380755654_vofp5e",
+        "order": 15,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380755796_9bixhq",
+        "order": 16,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380755973_ijjdf7",
+        "order": 17,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380756133_7obcv7",
+        "order": 18,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380756294_uf8m7y",
+        "order": 19,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380756447_7xmsz6",
+        "order": 20,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380756627_3pjnya",
+        "order": 21,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380756788_8hovkr",
+        "order": 22,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380756946_tn1tlo",
+        "order": 23,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380757156_p3nul6",
+        "order": 24,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380757365_ha4ang",
+        "order": 25,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380757550_olnme5",
+        "order": 26,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380757738_gt99pa",
+        "order": 27,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380757920_fe8zv9",
+        "order": 28,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380758113_8i40x8",
+        "order": 29,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380758293_ji5ssg",
+        "order": 30,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380758533_a9ykoh",
+        "order": 31,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380758685_223tx2",
+        "order": 32,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380758919_wjvrrn",
+        "order": 33,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380759225_sg3xye",
+        "order": 34,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380759426_0i2qok",
+        "order": 35,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [],
+        "notes": "",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380796084_46kzvc",
+        "order": 36,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [
+          {
+            "id": "el_1772380768205_8_eu9gf_dup_yfvi",
+            "type": "connector",
+            "x": 524,
+            "y": 202.4000015258789,
+            "width": 20,
+            "height": 20,
+            "rotation": 0,
+            "opacity": 1,
+            "locked": false,
+            "animation": null,
+            "animTrigger": "auto",
+            "style": {
+              "stroke": "#1c2120",
+              "strokeWidth": 2
+            },
+            "lineStyle": "solid",
+            "lineWidth": 2,
+            "startCap": "none",
+            "endCap": "arrow",
+            "content": "M0.0,0.0 L0.0,0.0",
+            "connectorType": "freeform"
+          },
+          {
+            "id": "el_1772380783287_a_alsdf_dup_7fnd",
+            "type": "connector",
+            "x": 741,
+            "y": -52.599998474121094,
+            "width": 404,
+            "height": 147,
+            "rotation": 0,
+            "opacity": 1,
+            "locked": false,
+            "animation": null,
+            "animTrigger": "auto",
+            "style": {
+              "stroke": "#1c2120",
+              "strokeWidth": 2
+            },
+            "lineStyle": "solid",
+            "lineWidth": 2,
+            "startCap": "none",
+            "endCap": "arrow",
+            "content": "M0.0,147.0 L38.0,126.0 L57.0,116.0 L81.0,103.0 L101.0,92.0 L125.0,80.0 L146.0,72.0 L160.0,66.0 L173.0,62.0 L186.0,58.0 L194.0,56.0 L203.0,54.0 L207.0,52.0 L210.0,50.0 L214.0,50.0 L216.0,50.0 L219.0,50.0 L223.0,50.0 L226.0,50.0 L230.0,49.0 L235.0,49.0 L241.0,48.0 L245.0,48.0 L253.0,46.0 L262.0,44.0 L273.0,43.0 L283.0,42.0 L296.0,39.0 L309.0,37.0 L319.0,35.0 L327.0,34.0 L335.0,33.0 L344.0,32.0 L347.0,31.0 L351.0,30.0 L352.0,30.0 L353.0,30.0 L354.0,30.0 L356.0,29.0 L359.0,26.0 L364.0,25.0 L368.0,24.0 L371.0,23.0 L377.0,22.0 L379.0,21.0 L381.0,21.0 L382.0,20.0 L383.0,20.0 L384.0,20.0 L385.0,20.0 L385.0,19.0 L388.0,17.0 L390.0,16.0 L393.0,14.0 L396.0,12.0 L397.0,10.0 L399.0,9.0 L401.0,7.0 L401.0,6.0 L402.0,5.0 L403.0,3.0 L404.0,2.0 L404.0,1.0 L404.0,0.0",
+            "connectorType": "freeform"
+          }
+        ],
+        "notes": "[Comment] hiii",
+        "transition": "none",
+        "animations": []
+      },
+      {
+        "id": "s_1772380759586_uuzzm1",
+        "order": 37,
+        "layout": "blank",
+        "background": {
+          "type": "solid",
+          "value": "#ffffff"
+        },
+        "elements": [
+          {
+            "id": "el_1772380768205_8_eu9gf",
+            "type": "connector",
+            "x": 524,
+            "y": 202.4000015258789,
+            "width": 20,
+            "height": 20,
+            "rotation": 0,
+            "opacity": 1,
+            "locked": false,
+            "animation": null,
+            "animTrigger": "auto",
+            "style": {
+              "stroke": "#1c2120",
+              "strokeWidth": 2
+            },
+            "lineStyle": "solid",
+            "lineWidth": 2,
+            "startCap": "none",
+            "endCap": "arrow",
+            "content": "M0.0,0.0 L0.0,0.0",
+            "connectorType": "freeform"
+          },
+          {
+            "id": "el_1772380783287_a_alsdf",
+            "type": "connector",
+            "x": 741,
+            "y": -52.599998474121094,
+            "width": 404,
+            "height": 147,
+            "rotation": 0,
+            "opacity": 1,
+            "locked": false,
+            "animation": null,
+            "animTrigger": "auto",
+            "style": {
+              "stroke": "#1c2120",
+              "strokeWidth": 2
+            },
+            "lineStyle": "solid",
+            "lineWidth": 2,
+            "startCap": "none",
+            "endCap": "arrow",
+            "content": "M0.0,147.0 L38.0,126.0 L57.0,116.0 L81.0,103.0 L101.0,92.0 L125.0,80.0 L146.0,72.0 L160.0,66.0 L173.0,62.0 L186.0,58.0 L194.0,56.0 L203.0,54.0 L207.0,52.0 L210.0,50.0 L214.0,50.0 L216.0,50.0 L219.0,50.0 L223.0,50.0 L226.0,50.0 L230.0,49.0 L235.0,49.0 L241.0,48.0 L245.0,48.0 L253.0,46.0 L262.0,44.0 L273.0,43.0 L283.0,42.0 L296.0,39.0 L309.0,37.0 L319.0,35.0 L327.0,34.0 L335.0,33.0 L344.0,32.0 L347.0,31.0 L351.0,30.0 L352.0,30.0 L353.0,30.0 L354.0,30.0 L356.0,29.0 L359.0,26.0 L364.0,25.0 L368.0,24.0 L371.0,23.0 L377.0,22.0 L379.0,21.0 L381.0,21.0 L382.0,20.0 L383.0,20.0 L384.0,20.0 L385.0,20.0 L385.0,19.0 L388.0,17.0 L390.0,16.0 L393.0,14.0 L396.0,12.0 L397.0,10.0 L399.0,9.0 L401.0,7.0 L401.0,6.0 L402.0,5.0 L403.0,3.0 L404.0,2.0 L404.0,1.0 L404.0,0.0",
+            "connectorType": "freeform"
+          }
+        ],
+        "notes": "[Comment] hiii",
+        "transition": "none",
+        "animations": []
+      }
+    ],
+    "settings": {
+      "transition": "fade",
+      "transitionDuration": 500,
+      "autoPlay": false,
+      "autoPlayInterval": 5000,
+      "showSlideNumbers": true,
+      "enableAI": true,
+      "enableInteractive": true
+    }
+  }
+}
